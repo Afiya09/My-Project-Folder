@@ -11,11 +11,11 @@ Build a strong foundation in data structures and algorithms (DSA), Git, and basi
 | Day | Focus Area     | Description                          | Status |
 |-----|----------------|--------------------------------------|--------|
 | 1   | Git & GitHub   | Installed Git, initialized repo     | ✅     |
-| 2   | Python Basics  | Loops, Functions, Conditions        | ✅     |
-| 3   | Arrays         | Traversals, Sum, Max, Min problems  | ✅     |
-| 4   | Sorting        | Bubble Sort, Selection Sort         | 🔄     |
-| 5   | Searching      | Linear & Binary Search              | 🔄     |
-| 6   | Practice       | Solve 5 LeetCode Easy problems      | ⬜     |
+| 2   | Python Basics  | Variables,Data Types,Input/Output   | ✅     |
+| 3   | Arrays         | Loops, Functions, Conditions        | ✅     |
+| 4   | Sorting        | Traversals, Sum, Max, Min problems  | 🔄     |
+| 5   | Searching      | String Manipulation, Functions      | 🔄     |
+| 6   | Practice       | Function,Recursion                  | ⬜     |
 | 7   | Recap & Notes  | Revise all, update notes, README    | ⬜     |
 
 ---
